@@ -334,7 +334,7 @@ const Login = () => {
                     borderRadius: "50px",
                   }}
                 >
-                  Login Instead
+                  Login Here
                 </Button>
               </form>
             </>
