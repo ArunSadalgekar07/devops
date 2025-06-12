@@ -5,7 +5,7 @@ pipeline {
         DOCKER_HOST_IP = "51.21.54.222"
         DOCKER_USER = "ubuntu"
         DOCKER_APP_DIR = "chat-app"
-        RECIPIENTS = '02fe23bcs411@kletech.ac.in, 02fe23bcs430@kletech.ac.in, 02fe23bcs421@kletech.ac.in, 02fe22bcs050@kletech.ac.in'
+        RECIPIENTS = '02fe23bcs411@kletech.ac.in, 02fe23bcs430@kletech.ac.in, 02fe23bcs420@kletech.ac.in, 02fe22bcs050@kletech.ac.in'
     }
 
     stages {
