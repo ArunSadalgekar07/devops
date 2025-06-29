@@ -2,8 +2,16 @@
 
 This project demonstrates a complete CI/CD DevOps pipeline setup for a Vite.js-based frontend chat application. The backend is hosted on [Render](https://render.com), and the frontend is deployed through a Dockerized Jenkins pipeline using AWS EC2 instances.
 
-# Demo Video
+# Images
+![media](https://github.com/user-attachments/assets/993eb59b-f09d-4830-a6f8-5b748b8c8626)
 
+![media](https://github.com/user-attachments/assets/01423928-301a-4dc6-9e09-43401f569140)
+
+![media](https://github.com/user-attachments/assets/e33b305e-b24b-426d-bb7d-ec9083adf5c5)
+
+![media](https://github.com/user-attachments/assets/227c1d73-14b8-4a9b-89c3-a8f249be2594)
+
+![media](https://github.com/user-attachments/assets/be61ce2a-4a64-43de-a784-abee4b3ec7dc)
 
 ---
 
